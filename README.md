@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @ioma8
-- 👀 I’m interested in contributing to interesting open-source project
-- 🌱 I’m currently learning AWS microservices
-- 📫 How to reach me: webmjkfm@gmail.com
+Welcome to my GitHub profile! 👋
 
-<!---
-ioma8/ioma8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👨‍💻 Full-time software developer
+- 🤖 Passionate about AI models
+- 💻 Skilled in React, Kotlin, and Flutter
+- 🔍 Interested in functional programming
+- 🎸 Enjoys playing guitar, having beer with friends and traveling
+- 🧠 Fascinated by human psychology
+
+Feel free to connect with me at webmjkfm@gmail.com.
